@@ -1,0 +1,20 @@
+
+body {
+    max-width : 500px ;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, "MS Trebuchet", sans-serif;
+    text-align : center ; 
+    color: #1A7070;
+}
+h1 {
+  background-color: #1F9696 ;
+}
+
+a {
+  color: #1F9696 ;
+}
+
+.logo {
+max-width :200px;
+}
